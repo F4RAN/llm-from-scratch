@@ -4,7 +4,7 @@ A hands-on guide for software engineers to understand how language models work b
 
 ## 📚 Article Series
 
-✔️ 1. [Words as Numbers - The Foundation](link-to-medium)
+1. [Words as Numbers - The Foundation](link-to-medium)
 2. [The Sequence Problem - Why Order Matters](link-to-medium)
 3. [Attention - The Breakthrough Idea](link-to-medium)
 4. [Multiple Perspectives - Multi-Head Attention](link-to-medium)
