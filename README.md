@@ -68,13 +68,10 @@ Found a bug? Have a suggestion? PRs welcome!
 
 ## 📬 Questions?
 
-Open an issue or reach out on [Twitter/LinkedIn]
+Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/f4ran/)
 
 ---
-
 **Start your journey**: [Article 1 - Words as Numbers](link)
-```
-
 ---
 
 ## **Publishing Strategy**
@@ -109,11 +106,3 @@ Each article should:
 - Training on GPUs
 - Distributed training
 - Fine-tuning
-
-**GitHub folder:** `10-production-scale/`
-```
-10-production-scale/
-├── README.md
-├── tokenizer_bpe.py (real tokenization)
-├── gpu_training.py (PyTorch version)
-└── scaling_analysis.md (theory)
